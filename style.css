@@ -1,0 +1,67 @@
+header{
+    text-align: center;
+    padding: 10px;
+}
+header b{
+ text-shadow: 1px 1px 1px DarkOrange; 
+}
+
+header {
+    color:  black;
+    padding: 5px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 50px;   
+    border: 3px dashed Black;
+    background-color: rgb(234, 0, 255);
+    }
+h1{
+        color: black;
+        background-color: yellow;
+        border-radius: 30px;
+        margin: 20px;
+        padding: 3px;
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+  p{
+         background: linear-gradient(#00FF00, #FF0099, #8000FF, #00FFD1, #FAFF00, #FF0F00);
+         text-align: center;
+         padding: 3px;
+         margin: 20px;
+         border: 3px dashed Black;
+    }
+    nav a{
+     font-size: 17px;
+     color: black;
+     text-decoration: none;
+     border-radius: 15px;
+     border: 3px dotted black;
+    text-align: center;
+    padding: 3px;
+    background-color: cyan;
+}
+nav{
+    padding: 20px;
+    text-align: right;
+}
+.kaka{
+    background-color: chartreuse;
+    border: 3px dotted  Black;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    height: 55px;
+    padding: 15px;
+}
+footer{
+    background-color: orange;
+}
+body{
+    background:  linear-gradient(#228B22, #DBFF00, #3E4FEA, #EA3E49);
+}
